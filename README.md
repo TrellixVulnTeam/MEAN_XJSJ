@@ -1,5 +1,11 @@
 ##                               ROAD MAP STEPS                    ##
 
+# DEFAULT PORTS : -
+  ANGULAR  : 4200
+  NODE     : 3000
+  MONGOOSE : 27017
+
+  IT CAN BE CHANGED ACCORDING TO USER 
 ## STEP 1 : -
     CREATING THE UI WITH ANGULAR , BULMA
  
