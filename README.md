@@ -1,6 +1,7 @@
 ##                               ROAD MAP STEPS                    ##
 
 # DEFAULT PORTS : -
+
   ANGULAR  : 4200
   NODE     : 3000
   MONGOOSE : 27017
