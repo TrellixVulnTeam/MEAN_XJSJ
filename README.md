@@ -2,4 +2,4 @@
 MEAN stack projects
 
  # 
- Please checkout 'feature' for latest updates
+ Please checkout 'feature' branch for latest updates
