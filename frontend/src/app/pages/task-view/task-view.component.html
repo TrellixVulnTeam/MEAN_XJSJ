@@ -18,8 +18,8 @@
                Tasks
               </h1>
               <!-- Task lists -->
-             <div class="task">
-                 <p>This is something I have to do</p>
+             <div class="task" *ngFor="let task of tasks">
+                {{task.title}}
              </div>
           </div>
      </div>

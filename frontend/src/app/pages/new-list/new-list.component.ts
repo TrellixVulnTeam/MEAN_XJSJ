@@ -14,9 +14,9 @@ export class NewListComponent implements OnInit {
   ngOnInit(): void {
   }
   createList(title:string){
-    this.taskService.createList(title).subscribe((response:any)=>{
-     console.log(response);
-       // Now we navigate to /lists/response._id
-    })
+    // this.taskService.createList(title).subscribe((response:any)=>{
+    //  console.log(response);
+    //    // Now we navigate to /lists/response._id
+    // })
   }
 }
