@@ -1,6 +1,7 @@
 // npm i express 
 // npm i mongoose
 // npm i body-parser 
+// npm i nodemon
 
 const express = require('express');
 const app = express();
