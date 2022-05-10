@@ -22,6 +22,7 @@
        npm i express 
        npm i mongoose
        npm i body-parser 
+       npm i nodemon
 ## STEP 3 : -
     CONNECTING ANGULAR FRONTEND TO THE API
 
