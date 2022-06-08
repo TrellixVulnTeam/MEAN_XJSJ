@@ -9,6 +9,10 @@
   MONGOOSE : 27017
 
   IT CAN BE CHANGED ACCORDING TO USER 
+
+  Command to run frontend and api .
+  front end (should be in frontend directory): ng s
+  api (should be in api directory): nodemon app.js
 ## STEP 1 : -
     CREATING THE UI WITH ANGULAR , BULMA
  
